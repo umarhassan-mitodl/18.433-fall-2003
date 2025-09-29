@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a list of additional references that students of
   the course are encouraged to read.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

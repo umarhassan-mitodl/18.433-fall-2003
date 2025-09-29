@@ -37,6 +37,7 @@
     "website": "18-433-combinatorial-optimization-fall-2003"
   },
   "course_title": "Combinatorial Optimization",
+  "hide_download": true,
   "course_description": "Combinatorial Optimization provides a thorough treatment of linear programming and combinatorial optimization. Topics include network flow, matching theory, matroid optimization, and approximation algorithms for NP-hard problems.\n",
   "department_numbers": [
     "18"
@@ -47,6 +48,7 @@
     "content": "4d5daf71-4ac6-28a8-8332-4d8aa843dd2b",
     "website": "18-433-combinatorial-optimization-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
